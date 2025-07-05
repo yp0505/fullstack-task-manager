@@ -1,19 +1,5 @@
-## **Creating README.md in VS Code**
-
-### **Step 1: Create README File in VS Code**
-
-1. **Open VS Code** with your project
-2. **Right-click** in the Explorer panel (left sidebar)
-3. **Select "New File"**
-4. **Name it**: `README.md`
-5. **Press Enter** to create the file
 
 
-### **Step 2: Copy-Paste README Content**
-
-Here's the complete README content you can directly copy-paste:
-
-```markdown
 # TaskFlow - Full-Stack Task Management Application
 
 A modern, responsive task management application built with **TypeScript**, **React**, and **Node.js** to demonstrate comprehensive full-stack development capabilities.
@@ -72,7 +58,7 @@ A modern, responsive task management application built with **TypeScript**, **Re
    ```bash
    git clone https://github.com/YOUR_USERNAME/fullstack-task-manager.git
    cd fullstack-task-manager
-```
+
 
 2. **Install dependencies**
 
